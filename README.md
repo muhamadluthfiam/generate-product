@@ -1,5 +1,3 @@
----
-
 ## generateProduct Documentation
 
 ### Overview
