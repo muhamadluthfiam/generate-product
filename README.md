@@ -61,6 +61,5 @@ The generated product data will be saved to a JSON file named `products.json`.
 ### Error Handling
 If an error occurs while writing the file, an error message will be logged to the console.
 
----
-
+### Lisensi
 [MIT](./LICENSE)
